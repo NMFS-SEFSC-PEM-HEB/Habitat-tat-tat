@@ -13,7 +13,7 @@ book:
   author:
     - name: Joy Merino
       affiliations:
-        - name: NOAA Fisheres
+        - name: NOAA Fisheries
           department: Southeast Fisheries Science Center
   chapters:
     - index.qmd
