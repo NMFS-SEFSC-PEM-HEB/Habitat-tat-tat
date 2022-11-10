@@ -10,9 +10,9 @@
 /_book/
 
 
-.content/customizing.qmd
-.content/rendering.qmd
-.content/rmarkdown.Rmd
-.content/code.qmd
-.content/adding-refs.qmd
-.content/references.qmd
+content/customizing.qmd
+content/rendering.qmd
+content/rmarkdown.Rmd
+content/code.qmd
+content/adding-refs.qmd
+content/references.qmd
