@@ -17,14 +17,9 @@ book:
           department: Southeast Fisheries Science Center
   chapters:
     - index.qmd
-    - content/setup.qmd
-    - content/add-content.qmd
-    - content/customizing.qmd
-    - content/rendering.qmd
-    - content/rmarkdown.Rmd
-    - content/code.qmd
-    - content/adding-refs.qmd
-    - content/references.qmd
+    - content/page1.qmd
+    - content/FY23_Meetings.qmd
+ 
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."

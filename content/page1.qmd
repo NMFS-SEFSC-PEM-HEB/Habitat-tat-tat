@@ -4,6 +4,8 @@ format: html
 editor: visual
 ---
 
+![](images/paste-2016DBC5.png)
+
 ## Who are We?
 
 We are dedicated awesome staff.
