@@ -8,7 +8,7 @@ book:
   repo-url: "https://github.com/NMFS-SEFSC-PEM-HEB/Habitat-tat-tat"
   repo-actions: [edit, source, issue]
   favicon: assets/favicon.ico
-  downloads: [pdf, docx]
+  downloads: [docx]
   search: true
   author:
     - name: Joy Merino
@@ -46,11 +46,6 @@ execute:
   code-overflow: wrap
 
 format:
-  titlepage-pdf:
-    documentclass: scrbook
-    classoption: ["oneside", "open=any"]
-    titlepage: "plain"
-    keep-tex: true
   docx:
     toc: true
     toc-depth: 2
